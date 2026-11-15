@@ -1,5 +1,5 @@
 /*
-Assignment Name: Linked Lists
+Assignment Title: Implement a binary search tree and display its inorder traversal
 Student Name: Pranav Ukade
 Roll No.: 61
 Batch: S4

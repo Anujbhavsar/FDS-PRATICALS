@@ -1,5 +1,5 @@
 /*
-Assignment Title: practical 6
+Assignment Title: Singly linked list with insertion at the beginning and end
 Name: pranav ukade 
 Roll number:61
 Batch:S4

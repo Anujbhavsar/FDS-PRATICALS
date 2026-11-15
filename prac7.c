@@ -1,5 +1,5 @@
 /*
-Assignment Title: practical 7
+Assignment Title: Implement a stack using a linked list
 Name: Pranav Ukade
 Roll number:61
 Batch:S4

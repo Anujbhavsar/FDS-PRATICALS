@@ -1,5 +1,5 @@
 /*
-Assignment Title: practical 3
+Assignment Title: Write a program to convert infix expression to postfix expression
 Name: Sakshi Date
 Roll number:
 Batch:S2
